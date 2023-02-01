@@ -1,0 +1,1 @@
+select to_char(next_day(add_months(begin_date, 6), 'FRIDAY'),'fmDAY, "the" Ddspth "of" MONTH, YYYY') REVIEW, begin_date from banner_notif;
