@@ -1,0 +1,5 @@
+LEFT/RIGHT JOINS:
+On these outer joins, all the info will be returned from the table specified (LEFT or RIGHT) and any data from the other table will be returned reguardless if there is a match on the specified key or not.
+
+FULL OUTER JOINS:
+Returns all the rows for the table defined on the left even if there is no match in the table on the right. Vice versa.

@@ -1,0 +1,1 @@
+Apparently it is less complicated to add a foriegn key within the employees table that references the primary key within that table vs creating a separate manager table. This is the case where using a self join is necessary.
