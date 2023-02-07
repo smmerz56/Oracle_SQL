@@ -1,0 +1,16 @@
+ANY-
+Compare a value returned from each value of the subquery.
+Less than ANY means less than the maximum. Greater than ANY means more than the minimum.
+= ANY is the equivalent to the IN keyword.
+
+ALL-
+Compares a value to all values returned from the subquery.
+Greater than ALL means more than the maximum. Less than ALL means less than the minimum.
+
+
+How I think of ANY/ALL:
+ANY compares each and every record returned. 
+ALL compares to what I think of as the one entity returned.
+ 
+
+NOT can be used with IN, ANY, and ALL operators

@@ -1,0 +1,10 @@
+Goal:
+Display the employee with the highest salary in each department.
+
+Step 1:
+Write subquery to identify the maximum salary per department id
+(pic example1)
+
+Step 2:
+Extend the query to shwo employee that earns the most per department
+(pic example2)
