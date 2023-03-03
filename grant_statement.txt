@@ -1,0 +1,3 @@
+grant select on asset_antenna TO CELL_DATA;
+
+//This allows one db to make select statements on another db
